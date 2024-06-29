@@ -1,2 +1,1 @@
-
-black-clover-to-do-app.infinityfreeapp.com
+https://uyandrew02.github.io/ADET-Compilations/
